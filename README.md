@@ -1,4 +1,4 @@
-# Futbol Maç Analiz ve Tahmin Sistemi
+# YAPAY ZEKA - Futbol Maç Analiz ve Tahmin Sistemi
 
 Bu proje, futbol maçları için kapsamlı analiz ve tahmin yapan bir PHP uygulamasıdır. API-Football verilerini kullanarak maç istatistiklerini analiz eder, tahminler üretir ve sonuçları veritabanında saklar.
 
