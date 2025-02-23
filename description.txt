@@ -1,0 +1,18 @@
+Futbol Maç Analiz ve Tahmin Sistemi
+
+Bu sistem, API-Football verilerini kullanarak futbol maçları için kapsamlı analiz ve tahmin yapan gelişmiş bir PHP uygulamasıdır. Gerçek zamanlı maç istatistikleri, detaylı takım analizleri ve yapay zeka destekli tahminler sunmaktadır.
+
+Öne Çıkan Özellikler:
+• Canlı maç analizleri ve tahminler
+• Gelişmiş istatistiksel modelleme
+• Karşılıklı performans karşılaştırmaları
+• Risk değerlendirmeli bahis önerileri
+• Detaylı performans metrikleri
+• Geçmiş veri analizi
+
+Teknik Detaylar:
+- PHP 7.4+ tabanlı
+- MySQL veritabanı
+- API-Football entegrasyonu
+- Bootstrap arayüz
+- PDO veritabanı katmanı
