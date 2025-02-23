@@ -138,23 +138,3 @@ echo $html; // Bootstrap ile şekillendirilmiş HTML çıktısı
 ## Lisans
 
 Bu proje MIT lisansı altında lisanslanmıştır.
-
-## İletişim
-
-MAC - [@MAC](https://github.com/MAC)
-Proje: [https://github.com/MAC/football-analyzer](https://github.com/MAC/football-analyzer)
-
-## Sürüm Geçmişi
-
-- v1.0.0 - İlk sürüm
-  - Temel analiz özellikleri
-  - API entegrasyonu
-  - Veritabanı yapısı
-
-- v1.1.0 - Güncellemeler
-  - Gelişmiş tahmin algoritmaları
-  - Yeni bahis önerileri
-  - Performans iyileştirmeleri
-
-
-  
